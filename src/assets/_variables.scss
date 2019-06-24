@@ -1,0 +1,32 @@
+
+h1, h2, h3{
+    margin: 0 15px 10px;
+}
+h1{
+    color: white;
+    font-size: 48px;
+}
+h2{
+    font-size: 30px;
+    padding-bottom: 10px;
+    border-bottom: solid 1px #e91063;
+    text-align: center;
+    color: #e91063;
+}
+h3{
+    font-size: 25px;
+    text-align: center;
+}
+
+ul{
+    margin: 10px 0;
+  li{
+    list-style-type: none;
+    padding: 10px 15px;
+  }
+  
+  li:hover {
+    background: #f7f7f7;
+  }
+  }
+

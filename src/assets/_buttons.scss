@@ -1,0 +1,24 @@
+button {
+    background: linear-gradient(#e91063);
+    border: deeppink 2px;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 20px;
+    display: inline;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background: #be0149;
+  }
+  
+  .vote-button{
+    margin: auto;
+  }
+    .hide{
+      display: none;
+    }
+    .show{
+      display: block;
+    }
+  
