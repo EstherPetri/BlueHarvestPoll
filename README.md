@@ -1,4 +1,4 @@
-# voting-poll
+#voting-poll
 
 > A Vue.js project
 
